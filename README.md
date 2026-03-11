@@ -7,3 +7,5 @@ With this application you can:
 - add new tasks
 - update their progress
 - delete tasks when they are completed
+
+Project URL: https://roadmap.sh/projects/task-tracker
